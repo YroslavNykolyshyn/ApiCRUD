@@ -1,5 +1,5 @@
 # API CRUD
-Simple CRUD API in GO
+Simple CRUD API in GO.  to be continued...
 
 ## API ENDPOINTS
 
